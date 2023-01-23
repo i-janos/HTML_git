@@ -1,0 +1,42 @@
+.container-fluid {
+    
+}
+
+header {
+    background-image: url("kepek/sky-line-of-tel-aviv-towers.jpg");
+    height: 450px;
+    background-size: contain;
+    /* background-size: cover; */
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 5px 5px 5px black;
+    color: beige;
+    padding-top: 120px;
+    letter-spacing: 3px;
+}
+
+.col {
+
+}
+
+.row {
+
+}
+
+.feher-div {
+    padding: 40px;
+    text-align: justify;
+}
+
+.szukre-div {
+    background-color: gray;
+}
+
+.szukre-div img {
+    height: 50%;
+    top: 15%;
+    position: relative;
+}
