@@ -1,0 +1,41 @@
+header {
+    background-image: url("kepek/tel-aviv-izrael.jpg");
+    height: 420px;
+    background-size: cover;
+    /* background-size: contain; */
+    /* background-size: cover; */
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 5px 5px 5px black;
+    color: beige;
+    padding-top: 120px;
+    letter-spacing: 3px;
+}
+
+.row{
+    height: 450px;
+}
+
+.feher-div {
+    padding: 40px;
+    text-align: justify;
+}
+
+.szukre-div {
+    padding: 20px;
+    background-color: gray;
+}
+
+.szukre-div img {
+    height: 20%;
+    top: 15%;
+    position: relative;
+}
+
+.egyoszlop-div {
+    color:ghostwhite;
+    background-color: rgb(56, 56, 56);
+}
