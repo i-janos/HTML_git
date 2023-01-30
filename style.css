@@ -1,11 +1,8 @@
-.container-fluid {
-    
-}
-
 header {
-    background-image: url("kepek/sky-line-of-tel-aviv-towers.jpg");
-    height: 450px;
-    background-size: contain;
+    background-image: url("kepek/tel-aviv-izrael.jpg");
+    height: 420px;
+    background-size: cover;
+    /* background-size: contain; */
     /* background-size: cover; */
     background-attachment: fixed;
 }
@@ -18,12 +15,8 @@ h1 {
     letter-spacing: 3px;
 }
 
-.col {
-
-}
-
-.row {
-
+.row{
+    height: 450px;
 }
 
 .feher-div {
@@ -32,11 +25,17 @@ h1 {
 }
 
 .szukre-div {
+    padding: 20px;
     background-color: gray;
 }
 
 .szukre-div img {
-    height: 50%;
+    height: 20%;
     top: 15%;
     position: relative;
+}
+
+.egyoszlop-div {
+    color:ghostwhite;
+    background-color: rgb(56, 56, 56);
 }
